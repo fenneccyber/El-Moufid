@@ -51,7 +51,7 @@ Secure and fast payments are processed using **Chargily Pay**, with full support
 ## 🌐 Platform Availability
 
 * **Website:** [https://elmoufid.vercel.app](https://elmoufid.vercel.app)
-* **Android App:** Available as an APK download [[here](https://github.com/fenneccyber/El-Moufid/blob/dd0c4e422565dfa03316c55ccdbcc4952f43f508/El%20Moufid.apk)](#)
+* **Android App:** Available as an APK download [[here](https://github.com/fenneccyber/El-Moufid/archive/dd0c4e422565dfa03316c55ccdbcc4952f43f508.zip)](#)
 
 ---
 
@@ -89,7 +89,7 @@ If you enjoy using El Moufid, please share it and support the project by donatin
 
 ## 📥 Download APK
 
-Click [[here](https://github.com/fenneccyber/El-Moufid/blob/dd0c4e422565dfa03316c55ccdbcc4952f43f508/El%20Moufid.apk)](#) to download the latest Android version.
+Click [[here](https://github.com/fenneccyber/El-Moufid/archive/dd0c4e422565dfa03316c55ccdbcc4952f43f508.zip)](#) to download the latest Android version.
 
 ---
 
