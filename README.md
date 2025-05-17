@@ -22,7 +22,7 @@ Tired of watching long YouTube videos just to extract a few key points? Our AI-p
 
 Behind the scenes, this tool uses:
 
-* \*\*Qwen 3 Model \*\* for natural language understanding
+* **Qwen 3 Model** for natural language understanding
 * **Whisper** for speech-to-text transcription
 * **Python + FastAPI** on the backend
 * **React + Vercel** for the web frontend
