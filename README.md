@@ -23,8 +23,10 @@ Tired of watching long YouTube videos just to extract a few key points? Our AI-p
 * Paste a YouTube video URL.
 * Let our system transcribe and analyze the content.
 * Receive a clean, structured article-style summary.
-  
-![Screenshot 2025-05-17 125950](https://github.com/user-attachments/assets/985c665b-da10-4e20-afe2-9fbe18e785ff)
+
+![Screenshot 2025-05-17 153731](https://github.com/user-attachments/assets/32c712cf-66b0-42c4-83c4-2fb5c4f4d479)
+
+![saassaa](https://github.com/user-attachments/assets/377573eb-9b6e-4b41-b1c6-ccb5ddcfdbff)
 
 Behind the scenes, this tool uses:
 
@@ -37,7 +39,9 @@ Behind the scenes, this tool uses:
 
 ## 💰 Credit-Based Payment System
 
-El Moufid allows **2 free summaries per day** for all users.
+### **El Moufid allows **2 free summaries per day** for all users.**
+
+![Screenshot 2025-05-17 125950](https://github.com/user-attachments/assets/5d912af8-5858-4d5b-8cad-8aa7e8fc42de)
 
 Need more? Simply create an account and purchase more credits to unlock additional daily summaries.
 
