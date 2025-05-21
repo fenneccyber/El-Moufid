@@ -2,7 +2,7 @@
 
 Welcome to **El Moufid**, a smart and growing platform built to make your daily digital life easier and more productive. From AI-powered tools to useful utilities, El Moufid is your one-stop hub for helpful web and mobile applications. 🎯
 
-![Screenshot 2025-05-17 125825](https://github.com/user-attachments/assets/2ccfb1aa-bf7f-47c1-bb65-61141a8dd7e7)
+![Screenshot 2025-05-21 160433](https://github.com/user-attachments/assets/05bbb4b4-b807-4d8f-8ec4-4319fa3c78bb)
 
 ---
 
@@ -16,7 +16,7 @@ Currently, the main app available on the platform is our flagship feature:
 
 Tired of watching long YouTube videos just to extract a few key points? Our AI-powered YouTube summarizer uses advanced language models to turn video transcripts into well-written summaries and articles in seconds.
 
-![Screenshot 2025-05-17 125852](https://github.com/user-attachments/assets/110fe526-4c1f-4dd2-8ee1-c31769ab8827)
+![Screenshot 2025-05-21 160451](https://github.com/user-attachments/assets/dcb4ca0b-09e6-4145-8e78-1bd82fc730b1)
 
 #### 🧠 How It Works:
 
@@ -56,7 +56,7 @@ Need more? Simply create an account and purchase more credits to unlock addition
 
 Secure and fast payments are processed using **Chargily Pay**, with full support for Algerian E-payment (Carte Edahabia).
 
-![Screenshot 2025-05-17 141625](https://github.com/user-attachments/assets/a2f9e6c1-94ca-40e5-99dd-f6620bda44fe)
+![Screenshot 2025-05-21 160515](https://github.com/user-attachments/assets/05c737ee-a4d3-4091-b02b-77dab867a0e4)
 
 ---
 
