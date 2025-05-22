@@ -6,19 +6,19 @@ Welcome to **El Moufid**, a smart and growing platform built to make your daily 
 
 ---
 
-## 📱 What is El Moufid?
+## What is El Moufid?
 
 El Moufid is a multi-tool web and mobile app suite, focused on offering useful digital services that solve real-world problems. Whether you're a student, a professional, or a curious learner, El Moufid aims to simplify your workflow and save your time.
 
 Currently, the main app available on the platform is our flagship feature:
 
-### 🎥 YouTube Summarizer (Main Tool)
+### YouTube Summarizer (Main Tool)
 
 Tired of watching long YouTube videos just to extract a few key points? Our AI-powered YouTube summarizer uses advanced language models to turn video transcripts into well-written summaries and articles in seconds.
 
 ![Screenshot 2025-05-21 160451](https://github.com/user-attachments/assets/dcb4ca0b-09e6-4145-8e78-1bd82fc730b1)
 
-#### 🧠 How It Works:
+#### How It Works:
 
 * Paste a YouTube video URL.
 * Let our system transcribe and analyze the content.
@@ -37,7 +37,7 @@ Behind the scenes, this tool uses:
 
 ---
 
-## 💰 Credit-Based Payment System
+## Credit-Based Payment System
 
 ### **El Moufid allows **2 free summaries per day** for all users.**
 
@@ -45,7 +45,7 @@ Behind the scenes, this tool uses:
 
 Need more? Simply create an account and purchase more credits to unlock additional daily summaries.
 
-### 🔐 Credit Packages (via **Eldahabia Card** using Chargily):
+### Credit Packages (via **Eldahabia Card** using Chargily):
 
 | Credits | Price (DZD) |
 | ------- | ----------- |
@@ -67,7 +67,7 @@ Secure and fast payments are processed using **Chargily Pay**, with full support
 
 ---
 
-## 🔧 Technology Stack
+## Technology Stack
 
 * **Frontend:** React, TailwindCSS, Vercel
 * **Backend:** FastAPI (Python)
@@ -78,24 +78,24 @@ Secure and fast payments are processed using **Chargily Pay**, with full support
 
 ---
 
-## 🧩 Coming Soon
+## Coming Soon
 
 El Moufid is constantly evolving. Planned features include:
 
-* 📄 PDF Summarizer
-* 🧑‍💼 Resume Builder using LLMs
-* 🗂 AI Writing Tools
-* 🎙 Voice-to-Text Notes
-* ✍️ Essay Draft Generator
-* 🎓 Study Assistant Tools
+* PDF Summarizer
+* Resume Builder using LLMs
+* AI Writing Tools
+* Voice-to-Text Notes
+* Essay Draft Generator
+* Study Assistant Tools
 
 ---
 
-## 🤝 Contribute & Support
+## Contribute & Support
 
 We welcome feedback, ideas, and collaborations. Feel free to open issues or reach out via GitHub.
 
-If you enjoy using El Moufid, please share it and support the project by donating or spreading the word. 💙
+If you enjoy using El Moufid, please share it and support the project by donating or spreading the word.
 
 ---
 
@@ -105,7 +105,7 @@ Click [[here](https://github.com/fenneccyber/El-Moufid/raw/refs/heads/main/El-Mo
 
 ---
 
-## 📧 Contact
+## Contact
 
 For support or inquiries, contact us at: **[logmehditt@gmail.com](mailto:logmehditt@gmail.com)**
 
@@ -113,5 +113,5 @@ For support or inquiries, contact us at: **[logmehditt@gmail.com](mailto:logmehd
 
 > El Moufid — Tools that simplify, powered by AI.
 
-![ChatGPT Image May 17, 2025, 05_14_42 PM](https://github.com/user-attachments/assets/4ba2e432-b11b-4003-b1a3-72ef82d20439)
+![title](https://github.com/user-attachments/assets/065d5210-3d6f-4c79-887c-da28b5e49576)
 
